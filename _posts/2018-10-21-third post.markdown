@@ -23,4 +23,4 @@ add는 git의 기본 작업흐름에서 첫단계이다.
 현재 변경 내용은 아직 로컬 저장소의 HEAD안에 있다.원격 서버로 업로드 하려면
 #### $git push origin mater
 원격서버 설정이 안되어있다면
-#### #git remote add origin <원격 서버 =""주소="">
+#### $git remote add origin <원격 서버 =""주소="">
