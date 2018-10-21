@@ -4,7 +4,7 @@ title: About Junhyuk Yoon
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About Junhyuk Yoon</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
 	<h2>윤준혁</h2>
 	<ul>
