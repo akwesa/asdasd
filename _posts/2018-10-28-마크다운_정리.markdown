@@ -2,16 +2,20 @@
 #### 헤더 Headers
 
 큰 제목 : 문서의 제목
-<pre><code>This is a H1  
-=============</code></pre>
+```
+This is a H1  
+=============
+```
 결과)
 # This is an H1
 
 작은 제목 : 문서 부제목
-<pre><code>This is a H2  
--------------</code></pre>
+```
+This is a H2  
+-------------
 결과)
 ## This is an H2
+```
 
 글머리 : 1~6까지만 지원
 ```
@@ -20,7 +24,7 @@
  ### This is a H3  
  #### This is a H4  
  ##### This is a H5  
- ###### This is a H6 
+ ###### This is a H6
  ```
 결과)
 # This is a H1
@@ -31,4 +35,13 @@
 ###### This is a H6
 ####### This is a H7
 
-#### 코드
+#### 코드블럭
+``` 혹은 ~~~ 코드 첫 줄과 마지막 줄에 Back quote ( ` ) 또는  
+물결( ~ ) 3개 삽입
+
+결과)
+```
+이것은
+코드블럭
+입니다.
+```
