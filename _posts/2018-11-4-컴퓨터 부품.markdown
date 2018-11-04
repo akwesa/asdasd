@@ -1,3 +1,4 @@
-##컴퓨터 부품 정리
-####CPU
-![cpu text](https://assets.pcmag.com/media/images/579867-intel-core-i7-8700k.jpg?thumb=y&width=980&height=525)
+## 컴퓨터 부품 정리  
+#### CPU  
+
+<img src = "https://assets.pcmag.com/media/images/579867-intel-core-i7-8700k.jpg?thumb=y&width=980&height=525">
